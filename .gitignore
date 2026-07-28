@@ -1,0 +1,22 @@
+# Banco de dados local - nunca commitar dados reais
+*.db
+*.sqlite
+*.sqlite3
+database.db
+
+# Arquivo de anexo gerado em runtime
+aut_email.txt
+
+# Segredos / configuração local
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build do PyInstaller
+build/
+dist/
+*.spec
