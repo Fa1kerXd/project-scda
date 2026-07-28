@@ -20,4 +20,3 @@ venv/
 build/
 dist/
 *.spec
-*test
